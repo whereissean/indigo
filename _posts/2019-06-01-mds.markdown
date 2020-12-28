@@ -3,7 +3,7 @@ title: "Mobility Data Specification (MDS)"
 layout: post
 date: 2019-06-01
 tag: mds
-image: https://whereissean.github.io/indigo/assets/images/MDS-image.jpeg
+image: https://whereissean.github.io/assets/images/MDS-image.jpeg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
